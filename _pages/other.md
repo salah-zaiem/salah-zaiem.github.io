@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /other/
+title: "Other"
 ---
 
 https://www.instagram.com/machmoumyesmin/
