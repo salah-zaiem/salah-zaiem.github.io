@@ -1,1 +1,5 @@
+---
+permalink: /CV/
+title: "CV"
+---
 
