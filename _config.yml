@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Salah Zaiem"
   avatar : "/assets/images/salah_zaiem.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD student at Telecom Paris working on self-supervised speech representation learning."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
