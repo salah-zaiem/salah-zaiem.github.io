@@ -3,4 +3,4 @@ permalink: /other/
 title: "Other"
 ---
 
-https://www.instagram.com/machmoumyesmin/
+[Machmoum Yesmin : an instagram page if you're interested in Arab history and poetry](https://www.instagram.com/machmoumyesmin/)
