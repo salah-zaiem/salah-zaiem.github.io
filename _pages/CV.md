@@ -9,4 +9,6 @@ title: "Curriculum Vitae"
 Supervisors: Slim Essid & Titouan Parcollet
 
 
-* Masters of Science in Applied Mathematics 
+* Masters of Science in Applied Mathematics, 2018-2019  <br />
+MVA Master, Ecole Normale Supérieure Paris-Saclay  <br />
+Highest Honors
