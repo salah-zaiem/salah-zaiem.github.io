@@ -39,6 +39,10 @@ Paris, France, 2017
 
 *Zaïem, M. S., & Bennequin, E. (2019). [Learning to Communicate in Multi-Agent Reinforcement Learning : A Review link](http://arxiv.org/abs/1911.05438)  <br />
 Arxiv Preprint
+
+
 *Algayres, R., Zaiem, M. S., Sagot, B., & Dupoux, E. (2020).  [Evaluating the reliability of acoustic speech embeddings. link](http://arxiv.org/abs/2007.13542)  <br />
  Proceedings of the Annual Conference of the International Speech Communication Association, INTERSPEECH, 2020-October, 4621–4625. 
+ 
+ 
 
