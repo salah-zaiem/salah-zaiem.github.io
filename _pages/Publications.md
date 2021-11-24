@@ -15,4 +15,6 @@ Arxiv Preprint
 
 * Zaiem, S., Parcollet, T., & Essid, S. (2021). Conditional independence for pretext task selection in Self-supervised speech representation learning. http://arxiv.org/abs/2104.07388, Accepted for Presentation at INTERSPEECH 2021.
 
+* Hsu, W.-N., Sriram, A., Baevski, A., Likhomanenko, T., Xu, Q., Pratap, V., Kahn, J., Lee, A., Collobert, R., Synnaeve, G., & Auli, M. (2021). Robust wav2vec 2.0: Analyzing Domain Shift in Self-Supervised Pre-Training. 721–725. http://arxiv.org/abs/2104.01027
+
 * Zaiem, S., Parcollet, T., & Essid, S. (2021). Pretext Tasks selection for multitask self-supervised speech representation learning. Preprint : https://arxiv.org/abs/2107.00594v1
