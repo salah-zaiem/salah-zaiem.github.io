@@ -5,3 +5,5 @@ main:
     url: /publications/
   - title: "Other"
     url: /other/
+  - title: "CRF"
+    url: /CRF/
