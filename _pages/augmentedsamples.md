@@ -3,7 +3,8 @@ permalink: /augmentedsamples/
 title: "Augmented Samples"
 ---
 
-You will find here a few samples of the augmentations depending on the task. On every line, the first audio file is the original file, the second file is the augmented version of the first one. The
+You will find here a few samples of the augmentations depending on the task. On every line, the first audio file is the original file, the second file is the augmented version of the first one. This page shows examples whose obtention is described in paper : 
+Automatic Data Augmentation Selection and Parametrization in Contrastive Self-Supervised Speech Representation Learning; Salah Zaiem, Titouan Parcollet and Slim Essid, Submitted to Interspeech 2022.
 
 
 ## VoxCeleb based augmentations (Speaker ID) : 
