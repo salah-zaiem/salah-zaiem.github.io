@@ -59,17 +59,17 @@ You will find here a few samples of the augmentations depending on the task. On 
 ### Best scoring augmentations
 <html>
 <style type="text/css"> .grid-container { display: grid; grid-template-columns: 100px auto 100px auto; } .grid-item { display: flex; align-items: center; justify-content: center; }</style>
-<div class="grid-container"><div class="grid-item"> EX1</div><div class="grid-item"> <audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
+<div class="grid-container"><div class="grid-item"> EX1</div><div class="grid-item"> <audio controls=""> <source src="../audio/vf_french_oeildefeu-20160601-czw_fr-sb-13.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
  </audio></div></div>
 </html>
 <html>
 <style type="text/css"> .grid-container { display: grid; grid-template-columns: 100px auto 100px auto; } .grid-item { display: flex; align-items: center; justify-content: center; }</style>
-<div class="grid-container"><div class="grid-item"> EX2</div><div class="grid-item"> <audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
+<div class="grid-container"><div class="grid-item"> EX2</div><div class="grid-item"> <audio controls=""> <source src="../audio/vf_french_phil_be-20100528-xkn_fr-sb-524.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
  </audio></div></div>
 </html>
 <html>
 <style type="text/css"> .grid-container { display: grid; grid-template-columns: 100px auto 100px auto; } .grid-item { display: flex; align-items: center; justify-content: center; }</style>
-<div class="grid-container"><div class="grid-item"> EX3</div><div class="grid-item"> <audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
+<div class="grid-container"><div class="grid-item"> EX3</div><div class="grid-item"> <audio controls=""> <source src="../audio/vf_italian_codex-20140403-dxg-it-1155.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
  </audio></div></div>
 </html>
 
@@ -81,23 +81,23 @@ You will find here a few samples of the augmentations depending on the task. On 
 ### Worst scoring augmentations
 <html>
 <style type="text/css"> .grid-container { display: grid; grid-template-columns: 100px auto 100px auto; } .grid-item { display: flex; align-items: center; justify-content: center; }</style>
-<div class="grid-container"><div class="grid-item"> EX1</div><div class="grid-item"> <audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
+<div class="grid-container"><div class="grid-item"> EX1</div><div class="grid-item"> <audio controls=""> <source src="../audio/vf_french_oeildefeu-20160601-czw_fr-sb-13.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
  </audio></div></div>
 </html>
 <html>
 <style type="text/css"> .grid-container { display: grid; grid-template-columns: 100px auto 100px auto; } .grid-item { display: flex; align-items: center; justify-content: center; }</style>
-<div class="grid-container"><div class="grid-item"> EX2</div><div class="grid-item"> <audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
+<div class="grid-container"><div class="grid-item"> EX2</div><div class="grid-item"> <audio controls=""> <source src="../audio/vf_french_phil_be-20100528-xkn_fr-sb-524.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
  </audio></div></div>
 </html>
 <html>
 <style type="text/css"> .grid-container { display: grid; grid-template-columns: 100px auto 100px auto; } .grid-item { display: flex; align-items: center; justify-content: center; }</style>
-<div class="grid-container"><div class="grid-item"> EX3</div><div class="grid-item"> <audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
+<div class="grid-container"><div class="grid-item"> EX3</div><div class="grid-item"> <audio controls=""> <source src="../audio/vf_italian_codex-20140403-dxg-it-1155.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
  </audio></div></div>
 </html>
 
 <html>
 <style type="text/css"> .grid-container { display: grid; grid-template-columns: 100px auto 100px auto; } .grid-item { display: flex; align-items: center; justify-content: center; }</style>
-<div class="grid-container"><div class="grid-item"> EX4</div><div class="grid-item"> <audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
+<div class="grid-container"><div class="grid-item"> EX4</div><div class="grid-item"> <audio controls=""> <source src="../audio/vf_spanish_TERIM-20110526-jyo-es-0034.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
  </audio></div></div>
 </html>
 
