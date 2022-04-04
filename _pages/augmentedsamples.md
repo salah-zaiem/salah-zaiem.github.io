@@ -8,7 +8,7 @@ You will find here a few samples of the augmentations depending on the task. On 
 
 *VoxCeleb based augmentations : 
 <html>
-<div class="grid-container"><div class="grid-item"> Mixture:</div><div class="grid-item"> <audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item">Ground Truth:</div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
+<div class="grid-container"><div class="grid-item"> Mixture:</div><div class="grid-item"> <audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav"> Your browser does not support the audio element. </audio></div><div class="grid-item"></div><div class="grid-item"><audio controls=""> <source src="../audio/id10227_2P3pquebk9k_000020.wav" type="audio/wav" />
  </audio></div>
 </html>
 
