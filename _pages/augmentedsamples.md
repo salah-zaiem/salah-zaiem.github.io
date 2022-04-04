@@ -1,10 +1,7 @@
 ---
 permalink: /augmentedsamples/
 title: "Augmented Samples"
-{% include open-embed.html %}
 ---
-
-
 
 You will find here a few samples of the augmentations depending on the task. On every line, you will see the original file first.
 
