@@ -19,9 +19,12 @@ Highest Honors
 
 
 ## Work Experience
+* **MILA**, Visiting PhD Student   <br />
+Montréal, Canada, 2023
+
 
 * **Google Research**, Research Intern   <br />
-Zurich, Switzerland, 2022
+Zurich, Switzerland, June-October 2022
 
 
 * **COML Team**, INRIA-ENS, Speech Processing Research Engineer   <br />
@@ -40,6 +43,11 @@ Paris, France, 2017
 
 
 ## Publications (Reverse Chronological Order)
+* Zaiem, S., Kemiche, Y., Parcollet, T., Essid, S., & Ravanelli, M. (2023). Speech Self-Supervised Representation Benchmarking: Are We Doing it Right? in INTERSPEECH 2023
+
+* Zaiem, S., Parcollet, T., & Essid, S. (2023). Automatic Data Augmentation for Domain Adapted Fine-Tuning of Self-Supervised Speech Representations. in INTERSPEECH 2023
+
+* Zaiem, S., Algayres, R., Parcollet, T., Essid, S., & Ravanelli, M. (2023). Fine-tuning Strategies for Faster Inference using Speech Self-Supervised Models: A Comparative Study. http://arxiv.org/abs/2303.06740 in ICASSP 2023
 
 * Zaiem, S., Parcollet, T., & Essid, S. & Heba, A. (2022). "Pretext Tasks Selection for Multitask Self-Supervised Audio Representation Learning," in IEEE Journal of Selected Topics in Signal Processing, 2022, doi: 10.1109/JSTSP.2022.3195430.
 
