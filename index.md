@@ -17,5 +17,5 @@ I am interested generally in Machine Learning applied to Language and Speech. Mo
 
 ### Work Opportunities
 
-I am getting close to the end of my PhD and I am starting to consider future track, either in Academia or Industry. If you are looking for a researcher, or buiding something related to speech, language or any human-related signal (health, brain..), feel free to drop me an email here : zaiemsalah@gmail.com .
+I am getting close to the end of my PhD adventure (I should defend in early 2024) and I am starting to consider future tracks, either in Academia or Industry. If you are looking for a researcher, or buiding something related to speech, language or any human-related signal (health, brain..), feel free to drop me an email here : zaiemsalah@gmail.com .
 
