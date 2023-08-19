@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications"
 ---
-* Zaiem, S., Kemiche, Y., Parcollet, T., Essid, S., & Ravanelli, M. (2023). Speech Self-Supervised Representation Benchmarking: Are We Doing it Right? in INTERSPEECH 2023
+* Zaiem, S., Kemiche, Y., Parcollet, T., Essid, S., & Ravanelli, M. (2023). Speech Self-Supervised Representation Benchmarking: Are We Doing it Right? in INTERSPEECH 2023 [<a href="https://github.com/speechbrain/benchmarks/tree/main/benchmarks/MP3S" target="_blank">Code</a>][<a href="/assets/slides/IS_2023_Probing.pdf" target="_blank">Slides</a>]
 
 * Zaiem, S., Parcollet, T., & Essid, S. (2023). Automatic Data Augmentation for Domain Adapted Fine-Tuning of Self-Supervised Speech Representations. in INTERSPEECH 2023
 
