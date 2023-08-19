@@ -2,11 +2,11 @@
 permalink: /publications/
 title: "Publications"
 ---
-* Zaiem, S., Kemiche, Y., Parcollet, T., Essid, S., & Ravanelli, M. (2023). Speech Self-Supervised Representation Benchmarking: Are We Doing it Right? in INTERSPEECH 2023 [<a href="https://github.com/speechbrain/benchmarks/tree/main/benchmarks/MP3S" target="_blank">Code</a>][<a href="/assets/slides/IS_2023_Probing.pdf" target="_blank">Slides</a>]
+* Zaiem, S., Kemiche, Y., Parcollet, T., Essid, S., & Ravanelli, M. (2023). Speech Self-Supervised Representation Benchmarking: Are We Doing it Right? in INTERSPEECH 2023 [<a href="https://arxiv.org/abs/2306.00452" target="_blank">Paper</a>] [<a href="https://github.com/speechbrain/benchmarks/tree/main/benchmarks/MP3S" target="_blank">Code</a>][<a href="/assets/slides/IS_2023_Probing.pdf" target="_blank">Slides</a>]
+https://arxiv.org/abs/2306.00452
+* Zaiem, S., Parcollet, T., & Essid, S. (2023). Automatic Data Augmentation for Domain Adapted Fine-Tuning of Self-Supervised Speech Representations. in INTERSPEECH 2023 [<a href="https://arxiv.org/abs/2306.00481" target="_blank">Paper</a>] [<a href="https://github.com/speechbrain/speechbrain/tree/develop/recipes/LibriSpeech/ASR/CTC" target="_blank">Code</a>][<a href="/assets/slides/Prez_Interspeech_2023_Augmentation.pdf" target="_blank">Slides</a>]
 
-* Zaiem, S., Parcollet, T., & Essid, S. (2023). Automatic Data Augmentation for Domain Adapted Fine-Tuning of Self-Supervised Speech Representations. in INTERSPEECH 2023 [<a href="https://github.com/speechbrain/speechbrain/tree/develop/recipes/LibriSpeech/ASR/CTC" target="_blank">Code</a>][<a href="/assets/slides/Prez_Interspeech_2023_Augmentation.pdf" target="_blank">Slides</a>]
-
-* Zaiem, S., Algayres, R., Parcollet, T., Essid, S., & Ravanelli, M. (2023). Fine-tuning Strategies for Faster Inference using Speech Self-Supervised Models: A Comparative Study. http://arxiv.org/abs/2303.06740 in ICASSP 2023
+* Zaiem, S., Algayres, R., Parcollet, T., Essid, S., & Ravanelli, M. (2023). Fine-tuning Strategies for Faster Inference using Speech Self-Supervised Models: A Comparative Study. http://arxiv.org/abs/2303.06740 in ICASSP 2023 [<a href="https://arxiv.org/abs/2303.06740" target="_blank">Paper</a>] [<a href="https://github.com/salah-zaiem/speeding_inferences" target="_blank">Code</a>][<a href="/assets/slides/Icassp_finetuningstrats_poster.pdf" target="_blank">Poster</a>]
 
 * Zaiem, S., Parcollet, T., & Essid, S. & Heba, A. (2022). "Pretext Tasks Selection for Multitask Self-Supervised Audio Representation Learning," in IEEE Journal of Selected Topics in Signal Processing, 2022, doi: 10.1109/JSTSP.2022.3195430.
 
