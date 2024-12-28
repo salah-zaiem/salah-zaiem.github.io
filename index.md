@@ -18,6 +18,5 @@ I am interested generally in Machine Learning applied to Language, Speech, and A
 
 ### Recent Works
 I have been involved recently in two audio-visual generative works at Google Deepmind:
-* Veo 2: State-of-the-Art video generation. \textcolor{blue} {\href{
-    https://deepmind.google/technologies/veo/veo-2/}{Blogpost link}}
-* Video-to-audio generation. \textcolor{blue} {\href{https://deepmind.google/discover/blog/generating-audio-for-video/}{Blogpost link}}
+* Veo 2: State-of-the-Art video generation.[<a href="https://deepmind.google/technologies/veo/veo-2/" target="_blank">Veo 2: Blogpost link</a>] 
+* Video-to-audio generation. [<a href="https://deepmind.google/technologies/veo/veo-2](https://deepmind.google/discover/blog/generating-audio-for-video)/" target="_blank">Audio for Video: Blogpost link</a>] 
