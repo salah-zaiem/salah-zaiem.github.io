@@ -16,3 +16,8 @@ During my PhD, I had the chance to spend two internships abroad. One with Google
 I am interested generally in Machine Learning applied to Language, Speech, and Audio. More precisely, my PhD work was focused on understanding and motivating the choices in Self-supervised learning pipelines for speech. My current work focuses on video-conditioned audio generation.
 
 
+### Recent Works
+I have been involved recently in two audio-visual generative works at Google Deepmind:
+* Veo 2: State-of-the-Art video generation. \textcolor{blue} {\href{
+    https://deepmind.google/technologies/veo/veo-2/}{Blogpost link}}
+* Video-to-audio generation. \textcolor{blue} {\href{https://deepmind.google/discover/blog/generating-audio-for-video/}{Blogpost link}}
