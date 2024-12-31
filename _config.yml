@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Salah Zaiem"
   avatar : "/assets/images/salah_zaiem.jpg"
-  bio    : "PhD student at Telecom Paris working on self-supervised speech representation learning."
+  bio    : "Research Scientist at Google Deepmind working on audio-visual generation."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
